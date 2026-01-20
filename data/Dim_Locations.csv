@@ -1,0 +1,6 @@
+﻿Location_ID,Hub_Name,Address,City,Capacity,Hub_Type
+L-001,Sân bay Tân Sơn Nhất,"Trường Sơn, Tân Bình",Ho Chi Minh,50,Airport Kiosk
+L-002,Trụ sở Quận 1,"Nguyễn Huệ, Quận 1",Ho Chi Minh,20,Headquarters
+L-003,Chi nhánh Cầu Giấy,"Xuân Thủy, Cầu Giấy",Ha Noi,30,Branch
+L-004,Sân bay Nội Bài,"Phú Minh, Sóc Sơn",Ha Noi,45,Airport Kiosk
+L-005,Sân bay Đà Nẵng,"Duy Tân, Hải Châu",Da Nang,40,Airport Kiosk
